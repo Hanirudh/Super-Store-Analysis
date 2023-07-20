@@ -1,9 +1,9 @@
+# Super-Store-Analysis
+Super-store-analysis using python
+
 # PROJECT OVERVIEW
 As we take an example of SUPER-STORE . where everything seemed to be running smoothly - sales were soaring and customers were flooding through the doors. But behind the scenes, a mystery was brewing. Despite these impressive numbers, the store was grappling with a huge financial loss, to find out what was really happening and which articles are causing the downfall of profits as an data analysts I delve deep into the history of sales of the store, unraveling the hidden story behind the store’s struggles and uncovering the clues that will lead to a dramatic turnaround.
 To understand the customers and the behavior pattern according to the seasons Data analysis is the way to unravel them data analysis helps in improving the Efficiency and performance it helps in taking the informed decision to control the risk. 
-     
-# Super-Store-Analysis
-Super-store-analysis using python
 
 # OBSERVATION FROM GENERAL EXPLORATORY DATA ANALYSIS ABOVE 
 1. Majority of the customers prefer the Standard Class Shipment mode.
